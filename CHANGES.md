@@ -1,5 +1,15 @@
 # Changes
 
+## [0.106.0](https://github.com/googleapis/google-api-go-client/compare/v0.105.0...v0.106.0) (2022-12-28)
+
+
+### Features
+
+* **all:** Auto-regenerate discovery clients ([#1784](https://github.com/googleapis/google-api-go-client/issues/1784)) ([a7f08e2](https://github.com/googleapis/google-api-go-client/commit/a7f08e2d1f5d4590ae0c6d66077f012bd18b5464))
+* **all:** Auto-regenerate discovery clients ([#1788](https://github.com/googleapis/google-api-go-client/issues/1788)) ([9fb35f5](https://github.com/googleapis/google-api-go-client/commit/9fb35f5f5db837dc8aba5b742b63e1a837621f75))
+* **all:** Auto-regenerate discovery clients ([#1790](https://github.com/googleapis/google-api-go-client/issues/1790)) ([7bd17b3](https://github.com/googleapis/google-api-go-client/commit/7bd17b38d39db0700ee20e5078cd4b7c8c3d3acb))
+* **option/internaloption:** Add new EmbeddableAdapter option ([#1787](https://github.com/googleapis/google-api-go-client/issues/1787)) ([1569e5b](https://github.com/googleapis/google-api-go-client/commit/1569e5b294ad150050319c108bfbcade2180351b))
+
 ## [0.105.0](https://github.com/googleapis/google-api-go-client/compare/v0.104.0...v0.105.0) (2022-12-14)
 
 
